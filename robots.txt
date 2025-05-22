@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /docs/
+Allow: /assets/
+Allow: /images/
+
+Sitemap: https://github.com/yourusername/pump-fun-trending-bot/sitemap.xml
+
+# Keywords for search engines
+# Solana Volume Bot
+# SOL Volume Management
+# Market Making
+# Volume Boosting
+# Solana Trading Automation 

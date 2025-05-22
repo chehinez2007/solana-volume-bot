@@ -1,0 +1,54 @@
+# Node dependencies
+node_modules/
+yarn.lock
+
+# Build output
+dist/
+build/
+out/
+.next/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Cache
+.cache/
+.npm/
+.eslintcache
+.stylelintcache
+
+# Python virtual environments (if you ever use Python locally)
+__pycache__/
+.venv/
+venv/
+ENV/
+
+# Generated images (if you want to keep these out of git)
+docs/images/generated/
+docs/images/social/ 
